@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sql-mapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sql_mapper_jar</output-path>
+    <root id="archive" name="sql-mapper.jar">
+      <element id="module-output" name="sql-mapper" />
+    </root>
+  </artifact>
+</component>
